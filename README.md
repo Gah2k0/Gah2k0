@@ -1,25 +1,9 @@
-<div align="center">
-  <img height="150" src="https://github.com/Gah2k0.png"  />
-</div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-franciscog/" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
+<h1 align="left">hey there 👋 I'm Gabriel!</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gah2k0.Gah2k0&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋 I'm Gabriel!</h1>
-
+- [My Linkedin](https://www.linkedin.com/in/gabriel-franciscog/)
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -56,7 +40,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Gah2k0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
